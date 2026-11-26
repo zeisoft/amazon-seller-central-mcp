@@ -219,7 +219,7 @@ Amazon Seller Central is where third-party sellers manage what they sell on Amaz
 
 The reason to read Amazon Seller Central through HeyMetra rather than through a server that only knows Amazon Seller Central is everything else it can answer in the same breath:
 
-**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp)
+**Ads** — [Google Ads](https://github.com/zeisoft/google-ads-mcp) · [Meta](https://github.com/zeisoft/meta-ads-mcp)
 
 **Analytics** — [Google Analytics 4](https://github.com/zeisoft/google-analytics-4-mcp) · [Google Search Console](https://github.com/zeisoft/google-search-console-mcp) · [PostHog](https://github.com/zeisoft/posthog-mcp)
 
